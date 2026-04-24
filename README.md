@@ -60,27 +60,6 @@ This project demonstrates **full-stack development skills**, **API integration**
 - VS Code  
 - MongoDB Atlas  
 - Cloud Deployment (AWS / Render / Vercel)  
-
----
-
-# 📂 Project Structure
-FULL_STACK_AI_RESUME_BUILDER
-│
-├── client
-│ ├── src
-│ ├── public
-│ ├── components
-│ └── pages
-│
-├── server
-│ ├── models
-│ ├── routes
-│ ├── controllers
-│ ├── middleware
-│ └── config
-│
-└── README.md
-
 ---
 
 # ⚙️ Installation Guide
@@ -152,30 +131,7 @@ POST /api/resume → Create Resume
 GET /api/resume → Fetch Resume
 PUT /api/resume/:id → Update Resume
 DELETE /api/resume/:id → Delete Resume
-
-
 ---
-
-# 📸 Screenshots (Add Later)
-
-You can add screenshots later inside a folder like:
-
-
-client/screenshots/home.png
-client/screenshots/dashboard.png
-client/screenshots/resume-preview.png
-
-
-Then include:
-
-📸 Screenshots
-Home Page
-
-Resume Builder
-
-
----
-
 # 🌐 Deployment
 
 This project can be deployed using:
